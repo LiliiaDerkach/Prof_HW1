@@ -1,0 +1,5 @@
+C:\Users\Lilia\source\repos\Prof_HW1\Prof_HW_1\obj\Debug\net7.0\Task_2.csproj.AssemblyReference.cache
+C:\Users\Lilia\source\repos\Prof_HW1\Prof_HW_1\obj\Debug\net7.0\Task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lilia\source\repos\Prof_HW1\Prof_HW_1\obj\Debug\net7.0\Task_2.AssemblyInfoInputs.cache
+C:\Users\Lilia\source\repos\Prof_HW1\Prof_HW_1\obj\Debug\net7.0\Task_2.AssemblyInfo.cs
+C:\Users\Lilia\source\repos\Prof_HW1\Prof_HW_1\obj\Debug\net7.0\Task_2.csproj.CoreCompileInputs.cache
